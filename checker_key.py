@@ -1,4 +1,4 @@
-CHECKER_KEY_FILENAME = 'checker_key.pub'
+from conf import *
 
 
 def read_key(key_file_name):
